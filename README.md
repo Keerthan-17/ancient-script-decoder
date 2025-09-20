@@ -75,7 +75,7 @@ id,file_name,gardiner_code,category,meaning,source
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/ancient-script-decoder.git
+git clone https://github.com/Keerthan-17/ancient-script-decoder.git
 cd ancient-script-decoder
 ```
 
