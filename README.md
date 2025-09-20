@@ -1,13 +1,9 @@
 # 🏺 Ancient Script Decoder
 *AI-powered Hieroglyph Recognition & Translation*
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/Frontend-React-%2361DAFB?logo=react&logoColor=black)  
-![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)  
-![License](https://img.shields.io/badge/License-MIT-green)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)  
-![Status](https://img.shields.io/badge/Project-Active-success)
-
+| Badges |
+|--------|
+| ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)  ![React](https://img.shields.io/badge/Frontend-React-%2361DAFB?logo=react&logoColor=black)  ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)  ![License](https://img.shields.io/badge/License-MIT-green)  ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)  ![Status](https://img.shields.io/badge/Project-Active-success)  |
 ---
 
 ## 🌍 About the Project  
