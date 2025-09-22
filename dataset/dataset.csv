@@ -1,1 +1,756 @@
 id,file_name,gardiner_code,category,meaning
+1,𓀀,A1,A,Seated man
+2,𓀁,A2,A,Man with hand to mouth
+3,𓀂,A3,A,Man sitting on heel
+4,𓀃,A4,A,Man with arms raised
+5,𓀄,A5,A,Man hiding
+6,𓀆,A6,A,Man purifying
+7,𓀉,A7,A,Fatigued man
+8,𓀊,A8,A,Man performing hnw
+9,𓀋,A9,A,Man with basket on head
+10,𓀌,A10,A,Man holding an oar
+11,𓀍,A11,A,Man with scepter and crook
+12,𓀎,A12,A,Man with bow and quiver
+13,𓀏,A13,A,Man with arms bound
+14,𓀐,A14,A,Man with bleeding head
+15,𓀑,A14a,A,Man with axe to head
+16,𓀒,A15,A,Man falling
+17,𓀓,A16,A,Man bowing
+18,𓀔,A17,A,Child with hand to mouth
+19,𓀕,A17a,A,Child sitting
+20,𓀖,A18,A,Child wearing red crown
+21,𓀗,A19,A,Aged man bending with stick
+22,𓀘,A20,A,Man leaning on forked stick
+23,𓀙,A21,A,Man with stick
+24,𓀚,A22,A,Statue of man with stick and scepter
+25,𓀛,A23,A,King with stick and mace
+26,𓀜,A24,A,Man striking with stick in both hands
+27,𓀝,A25,A,Man striking with stick in one hand
+28,𓀞,A26,A,Man beckoning
+29,𓀟,A27,A,Man running
+30,𓀠,A28,A,Man with arms raised
+31,𓀡,A29,A,Man upside down
+32,𓀢,A30,A,Man with arms outstretched
+33,𓀣,A31,A,Man with arms turned behind him
+34,𓀤,A32,A,Man dancing
+35,𓀦,A33,A,Man with stick and bundle
+36,𓀧,A34,A,Man pounding in a mortar
+37,𓀨,A35,A,Man building a wall
+38,𓀩,A36,A,Man straining into a vessel
+39,𓀪,A37,A,Commoner form A36
+40,𓀫,A38,A,Man holding two animal emblems
+41,𓀬,A39,A,Man holding two giraffes
+42,𓀭,A40,A,Seated god
+43,𓀯,A41,A,Seated king
+44,𓀰,A42,A,Seated king holding flail
+45,𓀲,A43,A,King wearing white crown of Upper Egypt
+46,𓀴,A44,A,King holding flail and wearing white crown of Upper Egypt
+47,𓀵,A45,A,King wearing red crown of Lower Egypt.
+48,𓀷,A46,A,King holding flail and wearing red crown of Lower Egypt.
+49,𓀸,A47,A,Seated sheperd
+50,𓀹,A48,A,Man holding knife
+51,𓀺,A49,A,Foreigner with stick
+52,𓀻,A50,A,Noble seated on chair
+53,𓀼,A51,A,Noble seated on chair with flagellum
+54,𓀽,A52,A,Kneeling noble with flail
+55,𓀾,A53,A,Upright mummy
+56,𓀿,A54,A,Recumbent mummy
+57,𓁀,A55,A,Mummy on bed
+58,𓁄,A59,A,Man threatening stick with one hand
+59,,,,
+60,𓁐,B1,B,Seated Woman
+61,𓁑,B2,B,Pregnant woman
+62,𓁒,B3,B,Woman giving birth
+63,𓁓,B4,B,Var. B3
+64,𓁔,B5,B,Woman nursing child
+65,𓁖,B6,B,Woman and seated child
+66,𓁗,B7,B,Seated queen holding flower
+67,,,,
+68,𓁚,C1,C,God with sun-disk and uraeus
+69,𓁜,C2,C,God with falcon head and sun-disk holding ʿnḫ
+70,𓁟,C3,C,God with ibis head
+71,𓁠,C4,C,God with ram head
+72,𓁡,C5,C,God with ram head holding ʿnḫ
+73,𓁢,C6,C,God with jackal head
+74,𓁣,C7,C,God with Seth head
+75,𓁤,C8,C,Min
+76,𓁥,C9,C,Goddess with horned sun-disk
+77,𓁦,C10,C,God with feather
+78,𓁧,C10a,C,Goddess with feather holding ʿnḫ
+79,𓁨,C11,C,ḥḥ-figure
+80,𓁩,C12,C,Amun
+81,𓁮,C17,C,Montu
+82,𓁯,C18,C,Tatjenen
+83,𓁰,C19,C,Ptah
+84,𓁱,C20,C,Variant C19
+85,,,,
+86,𓁶,D1,D,Head
+87,𓁷,D2,D,Face
+88,𓁸,D3,D,Hair
+89,𓁹,D4,D,Eye
+90,𓁺,D5,D,Eye with paint
+91,𓁻,D6,D,Eye with paint
+92,𓁼,D7,D,Eye with paint
+93,𓁽,D8,D,Eye enclosed
+94,𓁿,D9,D,Eye weeping
+95,𓂀,D10,D,Eye with falcon’s head marking
+96,𓂁,D11,D,White part of w3ḏt eye
+97,𓂂,D12,D,Eye pupil
+98,𓂃,D13,D,Eyebrow
+99,𓂄,D14,D,White part of w3ḏt eye
+100,𓂅,D15,D,Part of w3ḏt eye markings
+101,𓂆,D16,D,Part of w3ḏt eye markings
+102,𓂇,D17,D,Markings of w3ḏt eye
+103,𓂈,D18,D,Ear
+104,𓂉,D19,D,"Eye, nose, and cheek"
+105,𓂊,D20,D,Var. D19
+106,𓂋,D21,D,Mouth
+107,𓂌,D22,D,Mouth with two lines
+108,𓂍,D23,D,Mouth with three lines
+109,𓂎,D24,D,Upper lip with teeth
+110,𓂏,D25,D,Lips with teeth
+111,𓂐,D26,D,Lips spewing water
+112,𓂑,D27,D,Breast
+113,𓂒,D27a,D,Var. of D27
+114,𓂓,D28,D,Two arms
+115,𓂔,D29,D,Var. of D28
+116,𓂕,D30,D,Two arms with tail
+117,𓂖,D31,D,Combination of signs D32 and U36
+118,𓂘,D32,D,Two arms embracing
+119,𓂙,D33,D,Arms holding oar
+120,𓂚,D34,D,Arms with shield and axe
+121,𓂛,D34a,D,Arms with shield and mace
+122,𓂜,D35,D,Negative arms
+123,𓂝,D36,D,Arm
+124,𓂞,D37,D,Arm holding sign X8
+125,𓂟,D38,D,Arm holding bread
+126,𓂠,D39,D,Arm holding W24
+127,𓂡,D40,D,Arm holding stick
+128,𓂢,D41,D,Arm with downward facing palm
+129,𓂣,D42,D,Arm with downward facing palm
+130,𓂤,D43,D,Arm with flail
+131,𓂥,D44,D,Arm with scepter
+132,𓂦,D45,D,Arm with brush
+133,𓂧,D46,D,Hand
+134,𓂨,D46a,D,Hand with water
+135,𓂩,D47,D,Hand
+136,𓂪,D48,D,Palm without thumb
+137,𓂬,D49,D,Fist
+138,𓂭,D50,D,Vertical finger
+139,𓂷,D51,D,Horizontal finger
+140,𓂸,D52,D,Penis
+141,𓂺,D53,D,Penis with liquid
+142,𓂻,D54,D,Legs walking
+143,𓂽,D55,D,Legs walking (reverse of D54)
+144,𓂾,D56,D,Leg
+145,𓂿,D57,D,Leg with T30
+146,𓃀,D58,D,Foot
+147,𓃁,D59,D,Foot with D36
+148,𓃂,D60,D,Foot with water streaming
+149,𓃃,D61,D,Toes
+150,𓃄,D62,D,Var. D61
+151,𓃅,D63,D,Var. D61
+152,,,,
+153,𓃒,E1,E,Bull
+154,𓃓,E2,E,Bull preparing to charge
+155,𓃔,E3,E,Calf
+156,𓃕,E4,E,Sacred cow
+157,𓃖,E5,E,Cow with calf
+158,𓃗,E6,E,Horse
+159,𓃘,E7,E,Donkey
+160,𓃙,E8,E,Kid
+161,𓃚,E9,E,Newborn bubalis
+162,𓃛,E10,E,Ram
+163,𓃞,E11,E,Ram
+164,𓃟,E12,E,Pig
+165,𓃠,E13,E,Cat
+166,𓃡,E14,E,Dog
+167,𓃢,E15,E,Recumbent Jackal
+168,𓃣,E16,E,Recumbent Jackal on shrine
+169,𓃥,E17,E,Jackal
+170,𓃧,E18,E,Jackal on standard R12
+171,𓃨,E19,E,O.K. form of last
+172,𓃩,E20,E,Seth animal
+173,𓃫,E21,E,Recumbent Seth animal
+174,𓃬,E22,E,Lion
+175,𓃭,E23,E,Recumbent Lion
+176,𓃮,E24,E,Panther
+177,𓃯,E25,E,Hippopotamus
+178,𓃰,E26,E,Elephant
+179,𓃱,E27,E,Giraffe
+180,𓃲,E28,E,Oryx
+181,𓃴,E29,E,Gazelle
+182,𓃵,E30,E,Ibex
+183,𓃶,E31,E,Goat with collar
+184,𓃷,E32,E,Baboon
+185,𓃸,E33,E,Monkey
+186,𓃹,E34,E,Hare
+187,,,,
+188,𓃾,F1,F,Head of ox
+189,𓄀,F2,F,Head of charging ox
+190,𓄁,F3,F,Head of hippopotamus
+191,𓄂,F4,F,Forepart of lion
+192,𓄃,F5,F,Head of bubalis
+193,𓄄,F6,F,Forepart of bubalis
+194,𓄅,F7,F,Head of ram
+195,𓄆,F8,F,Forepart of ram
+196,𓄇,F9,F,Head of leopard
+197,𓄈,F10,F,Head and neck of animal
+198,𓄉,F11,F,O.K. form of F10
+199,𓄊,F12,F,Head and neck of jackal
+200,𓄋,F13,F,Horns of ox
+201,𓄍,F14,F,Combination of F13 and M4
+202,𓄎,F15,F,Combination of F14 and N5
+203,𓄏,F16,F,Horn
+204,𓄐,F17,F,Combination of F16 and D60 water vessel
+205,𓄑,F18,F,Tusk of elephant
+206,𓄒,F19,F,Jawbone of ox
+207,𓄓,F20,F,Tongue
+208,𓄔,F21,F,Ear of ox
+209,𓄖,F22,F,Hindquarters of leopard or lion
+210,𓄗,F23,F,Foreleg of ox
+211,𓄘,F24,F,Reverse of F23
+212,𓄙,F25,F,Leg and hoof of ox
+213,𓄚,F26,F,Goatskin
+214,𓄛,F27,F,Cowskin
+215,𓄜,F28,F,Var. of F27
+216,𓄝,F29,F,Combination of F28 + arrow
+217,𓄞,F30,F,Water skin
+218,𓄟,F31,F,Three fox skins
+219,𓄡,F32,F,Animal belly and tail
+220,𓄢,F33,F,Tail
+221,𓄣,F34,F,Heart
+222,𓄤,F35,F,Heart and windpipe
+223,𓄥,F36,F,Lung and windpipe
+224,𓄦,F37,F,Backbone and ribs
+225,𓄨,F38,F,Var. of F37
+226,𓄪,F39,F,Backbone and spinal cord
+227,𓄫,F40,F,Backbone and spinal cord at each end
+228,𓄬,F41,F,Vertebrae
+229,𓄭,F42,F,Rib
+230,𓄮,F43,F,Ribs
+231,𓄯,F44,F,Leg bone with meat
+232,𓄰,F45,F,Heifer uterus
+233,𓄲,F46,F,Intestine
+234,𓄴,F47,F,Var. of F46
+235,𓄶,F48,F,Var. of F46
+236,𓄷,F49,F,Var. of F46
+237,𓄸,F50,F,Combination of F46 and S29
+238,𓄹,F51,F,Piece of flesh
+239,𓄽,F52,F,Excrement
+240,,,,
+241,𓄿,G1,G,Vulture
+242,𓅀,G2,G,Two Vultures
+243,𓅁,G3,G,Combination of G1 + U1
+244,𓅂,G4,G,Buzzard
+245,𓅃,G5,G,Falcon
+246,𓅄,G6,G,Falcon with flail
+247,𓅆,G7,G,Falcon on standard
+248,𓅇,G7a,G,"Var of G7, Falcon in boat"
+249,𓅈,G7b,G,"Var of G7, G7a"
+250,𓅉,G8,G,Combination of G5 + S12
+251,𓅊,G9,G,Falcon with sun disk
+252,𓅋,G10,G,Falcon in sacred bark
+253,𓅌,G11,G,Falcon image
+254,𓅎,G12,G,Falcon image with flail
+255,𓅏,G13,G,Falcon image with S9
+256,𓅐,G14,G,Vulture
+257,𓅑,G15,G,Vulture with flail
+258,𓅒,G16,G,Nehkbet and Edjo
+259,𓅓,G17,G,Owl
+260,𓅔,G18,G,Two Owls
+261,𓅕,G19,G,Combination of G17 + D37
+262,𓅖,G20,G,Combination of G17 + D36
+263,𓅘,G21,G,Guinea fowl
+264,𓅙,G22,G,Hoopoe
+265,𓅚,G23,G,Lapwing
+266,𓅛,G24,G,Var. of G23
+267,𓅜,G25,G,Crested Ibis
+268,𓅝,G26,G,Sacred ibis on standard
+269,𓅞,G26a,G,Sacred ibis
+270,𓅟,G27,G,Flamingo
+271,𓅠,G28,G,Black ibis
+272,𓅡,G29,G,Jabiru
+273,𓅢,G30,G,Three jabirus
+274,𓅣,G31,G,Heron
+275,𓅤,G32,G,Heron on perch
+276,𓅥,G33,G,Egret
+277,𓅦,G34,G,Ostrich
+278,𓅧,G35,G,Cormorant
+279,𓅨,G36,G,Swallow
+280,𓅪,G37,G,Sparrow
+281,𓅬,G38,G,Goose
+282,𓅭,G39,G,Duck
+283,𓅮,G40,G,Duck flying
+284,𓅯,G41,G,Duck landing
+285,𓅰,G42,G,Fattened bird
+286,𓅱,G43,G,"Quail chick, var. Z7"
+287,𓅳,G44,G,Two quail chicks
+288,𓅴,G45,G,Combination of G43 + D36
+289,𓅶,G46,G,Combination of G43 + U1
+290,𓅷,G47,G,Duckling
+291,𓅸,G48,G,Three ducklings in nest
+292,𓅹,G49,G,Ducks’ heads protruding from pool
+293,𓅺,G50,G,Two plovers
+294,𓅻,G51,G,Bird pecking fish
+295,𓅼,G52,G,Goose feeding
+296,𓅽,G53,G,Human headed bird
+297,𓅾,G54,G,Plucked bird
+298,,,,
+299,𓅿,H1,H,Head of duck
+300,𓆀,H2,H,Head of crested bird
+301,𓆁,H3,H,Head of spoonbill
+302,𓆂,H4,H,Head of vulture
+303,𓆃,H5,H,Wing
+304,𓆄,H6,H,Feather
+305,𓆆,H7,H,Claw
+306,𓆇,H8,H,Egg
+307,,,,
+308,𓆈,I1,I,Lizard
+309,𓆉,I2,I,Turtle
+310,𓆊,I3,I,Crocodile
+311,𓆋,I4,I,Crocodile on shrine
+312,𓆌,I5,I,Crocodile with curved tail
+313,𓆎,I6,I,Crocodile scales
+314,𓆏,I7,I,Frog
+315,𓆐,I8,I,Tadpole
+316,𓆑,I9,I,Horned viper
+317,𓆓,I10,I,Cobra
+318,𓆕,I11,I,Two cobras
+319,𓆗,I12,I,Erect cobra
+320,𓆘,I13,I,Combination of I12 + V30
+321,𓆙,I14,I,Snake
+322,𓆚,I15,I,Var. of I15
+323,,,,
+324,𓆛,K1,K,Bulti fish
+325,𓆜,K2,K,Barbel fish
+326,𓆝,K3,K,Mullet fish
+327,𓆞,K4,K,Oxyrhynchus fish
+328,𓆟,K5,K,Pike fish
+329,𓆠,K6,K,Fish scale
+330,𓆡,K7,K,Blowfish
+331,,,,
+332,𓆣,L1,L,Scarab beetle
+333,𓆤,L2,L,Bee
+334,𓆦,L3,L,Fly
+335,𓆧,L4,L,Locust
+336,𓆨,L5,L,Centipede
+337,𓆩,L6,L,Shell
+338,𓆫,L7,L,Scorpion
+339,,,,
+340,𓆭,M1,M,Tree
+341,𓆰,M2,M,Plant
+342,𓆱,M3,M,Branch
+343,𓆳,M4,M,Stripped palm branch
+344,𓆴,M5,M,Combination of M4 + X1
+345,𓆵,M6,M,Combination of M4 + D21
+346,𓆶,M7,M,Combination of M4 + Q3
+347,𓆷,M8,M,Pool with lilies
+348,𓆸,M9,M,Lily
+349,𓆹,M10,M,Lily bud
+350,𓆻,M11,M,Flower and stem
+351,𓆼,M12,M,Lily plant
+352,𓇅,M13,M,Papyrus stem
+353,𓇆,M14,M,Combination of M13 and I10
+354,𓇇,M15,M,Papyrus clump with downward facing buds.
+355,𓇉,M16,M,Papyrus clump
+356,𓇋,M17,M,Reed leaf
+357,𓇍,M18,M,Combination of M17 + D54
+358,𓇎,M19,M,Conical cakes between signs M17 and U36
+359,𓇏,M20,M,Reed field
+360,𓇐,M21,M,Reed field with root
+361,𓇑,M22,M,Rush with shoots
+362,𓇓,M23,M,Sedge
+363,𓇔,M24,M,Combination of M23 + D21
+364,𓇖,M25,M,Combination of M26 + M24
+365,𓇗,M26,M,Sedge
+366,𓇘,M27,M,Combination of M26 + D36
+367,𓇙,M28,M,Combination of M26 + V20
+368,𓇛,M29,M,Pod
+369,𓇜,M30,M,Root
+370,𓇝,M31,M,Rhizome
+371,𓇟,M32,M,Var of M31
+372,𓇠,M33,M,Grain
+373,𓇣,M34,M,Emmer sheaf
+374,𓇤,M35,M,Grain heap
+375,𓇥,M36,M,Flax bundle
+376,𓇦,M37,M,Flax bundle with stems
+377,𓇧,M38,M,Flax bundle
+378,𓇨,M39,M,Basket of fruit or grain
+379,𓇩,M40,M,Reed bundle
+380,𓇫,M41,M,Wood log
+381,𓇬,M42,M,Flower
+382,𓇭,M43,M,Grape vines on props
+383,𓇮,M44,M,Thorn
+384,,,,
+385,𓇯,N1,N,Sky
+386,𓇰,N2,N,Sky with broken S40
+387,𓇱,N3,N,Var. of N2
+388,𓇲,N4,N,Sky with rain
+389,𓇳,N5,N,Sun
+390,𓇴,N6,N,Sun with uraeus
+391,𓇵,N7,N,Combination of N5 + T28
+392,𓇶,N8,N,Sun with rays
+393,𓇷,N9,N,Moon
+394,𓇸,N10,N,Var of N9
+395,𓇹,N11,N,Crescent moon
+396,𓇺,N12,N,Var. of N11
+397,𓇻,N13,N,Combination of half of N11 and N14
+398,𓇼,N14,N,Star
+399,𓇽,N15,N,Star encircled
+400,𓇾,N16,N,Flat land with grain
+401,𓇿,N17,N,Var. of N16
+402,𓈀,N18,N,Strip of sand
+403,𓈃,N19,N,Two strips of sand
+404,𓈄,N20,N,Tongue of land
+405,𓈅,N21,N,Tongue of land
+406,𓈆,N22,N,Tongue of land
+407,𓈇,N23,N,Canal
+408,𓈈,N24,N,Irrigation canal system
+409,𓈉,N25,N,Mountain rande
+410,𓈋,N26,N,Mountain
+411,𓈌,N27,N,Sunrise over mountain
+412,𓈍,N28,N,Hill with sun rays
+413,𓈎,N29,N,Sandy slope
+414,𓈏,N30,N,Hill with shrubs
+415,𓈐,N31,N,Road bordered by shrubs
+416,𓈑,N32,N,"Lump of clay, Var. Aa2 and F52."
+417,𓈒,N33,N,Grain of sand
+418,𓈔,N34,N,Metal Ingot
+419,𓈖,N35,N,Water ripple
+420,𓈗,N35a,N,Three ripples
+421,𓈘,N36,N,Canal
+422,𓈙,N37,N,Pool
+423,𓈛,N38,N,Var. of N37
+424,𓈜,N39,N,Var. of N37
+425,𓈝,N40,N,Combination of N37 and D54
+426,𓈞,N41,N,Well with water
+427,𓈟,N42,N,Var. of N41
+428,,,,
+429,𓉐,O1,O,House plan
+430,𓉒,O2,O,Combination of O1 + T3
+431,𓉓,O3,O,Combination of O1 + P8 + X3 + W22
+432,𓉔,O4,O,Reed shelter
+433,𓉕,O5,O,Winding wall
+434,𓉗,O6,O,Plan of rectangular enclosure
+435,𓉞,O7,O,Var of O6
+436,𓉟,O8,O,Combination of O7 + O29
+437,𓉠,O9,O,Combination of O7 + O30
+438,𓉡,O10,O,Combination of O6 + G5
+439,𓉥,O12,O,Palace with battlements
+440,𓉦,O13,O,Enclosure with battlements
+441,𓉧,O14,O,Var. of O13
+442,𓉨,O15,O,Walled enclosure with buttresses + W10 + X1
+443,𓉩,O16,O,Gateway with serpents
+444,𓉪,O17,O,Var. of O16
+445,𓉫,O18,O,Shrine in profile
+446,𓉬,O19,O,Shrine in profile with poles
+447,𓉭,O20,O,Shrine
+448,𓉯,O21,O,Shrine Facade
+449,𓉱,O22,O,Booth supported by pole
+450,𓉲,O23,O,Double platform
+451,𓉳,O24,O,Pyramid surrounded by wall
+452,𓉴,O25,O,Obelisk
+453,𓉶,O26,O,Stela
+454,𓉸,O27,O,Hall with columns
+455,𓉹,O28,O,Column with tenon
+456,𓉺,O29,O,Wood column
+457,𓉼,O29V,O,Vertical wood column
+458,𓉽,O30,O,Supporting pole
+459,𓉿,O31,O,Door
+460,𓊀,O32,O,Gateway
+461,𓊁,O33,O,Palace or tomb facade
+462,𓊃,O34,O,Door bolt
+463,𓊄,O35,O,Combination of O34 + D54
+464,𓊅,O36,O,Wall
+465,𓊊,O37,O,Falling wall
+466,𓊋,O38,O,Corner of wall
+467,𓊌,O39,O,Stone slab
+468,𓊍,O40,O,Stairway
+469,𓊎,O41,O,Double stairway
+470,𓊏,O42,O,Fence
+471,𓊐,O43,O,Var. of O42
+472,𓊑,O44,O,Min emblem
+473,𓊒,O45,O,Domed building
+474,𓊓,O46,O,Var. of O45
+475,𓊔,O47,O,Enclosed mound
+476,𓊕,O48,O,Var. of O47
+477,𓊖,O49,O,Area with crossroads
+478,𓊗,O50,O,Threshing floor with grain
+479,𓊚,O51,O,Grain mound on mud floor
+480,,,,
+481,𓊛,P1,P,Boat on water
+482,𓊜,P1a,P,Boat upside down
+483,𓊝,P2,P,Ship sailing
+484,𓊞,P3,P,Sacred bark
+485,𓊠,P4,P,Boat with net
+486,𓊡,P5,P,Sail
+487,𓊢,P6,P,Mast
+488,𓊣,P7,P,Combination of P6 +D36
+489,𓊤,P8,P,Oar
+490,𓊥,P9,P,Combination of P8 + I9
+491,𓊦,P10,P,Steering oar
+492,𓊧,P11,P,Mooring post
+493,,,,
+494,𓊨,Q1,Q,Seat
+495,𓊩,Q2,Q,Portable seat
+496,𓊪,Q3,Q,Stool
+497,𓊫,Q4,Q,Headrest
+498,𓊬,Q5,Q,Chest
+499,𓊭,Q6,Q,Coffin
+500,𓊮,Q7,Q,Brazier with flame
+501,,,,
+502,𓊯,R1,R,Table with jug and loaves
+503,𓊰,R2,R,Table with bread slices
+504,𓊲,R3,R,Low table with Jug and loaves
+505,𓊵,R4,R,Bread loaf on mat
+506,𓊶,R5,R,Censer
+507,𓊷,R6,R,Var. of R5
+508,𓊸,R7,R,Incense bowl
+509,𓊹,R8,R,Flag
+510,𓊺,R9,R,Combination of R8 + V33
+511,𓊻,R10,R,Combination of R8 + T28 + N29
+512,𓊽,R11,R,Reed column
+513,𓊾,R12,R,Standard
+514,𓊿,R13,R,Combination of G5 + R14
+515,𓋀,R14,R,Var of R13
+516,𓋁,R15,R,Spear as standard
+517,𓋂,R16,R,Scepter with feathers
+518,𓋄,R17,R,Feathered wig with pole
+519,𓋅,R18,R,Var. of R17
+520,𓋆,R19,R,Combination of S40 + feather
+521,𓋇,R20,R,Seshat emblem
+522,𓋈,R21,R,Var. of R20
+523,𓋉,R22,R,Min emblem
+524,𓋊,R23,R,Var. of R22
+525,𓋋,R24,R,Neith emblem
+526,𓋌,R25,R,Var. of R24
+527,,,,
+528,𓋑,S1,S,White crown of Upper Egypt
+529,𓋒,S2,S,Combination of S1 + V30
+530,𓋔,S3,S,Red crown of Lower Egypt
+531,𓋕,S4,S,Combination of S3 + V30
+532,𓋖,S5,S,Combination of red and white crown
+533,𓋗,S6,S,Combination of S5 + V30
+534,𓋙,S7,S,Blue Crown
+535,𓋚,S8,S,Atef crown
+536,𓋛,S9,S,Double plumes
+537,𓋜,S10,S,Headband
+538,𓋝,S11,S,Collar
+539,𓋞,S12,S,Collar of beads
+540,𓋟,S13,S,Combination of S12 + D58
+541,𓋠,S14,S,Combination of S12 + T3
+542,𓋡,S14a,S,Combination of S12 + S40
+543,𓋣,S15,S,Faience pectoral
+544,𓋤,S16,S,Var. of S15
+545,𓋥,S17,S,Var of S15
+546,𓋧,S18,S,Bead necklace
+547,𓋨,S19,S,Necklace and cylinder seal
+548,𓋩,S20,S,Necklace and cylinder seal
+549,𓋪,S21,S,Ring
+550,𓋫,S22,S,Shoulder knot
+551,𓋬,S23,S,Knotted cloth
+552,𓋭,S24,S,Knotted belt
+553,𓋮,S25,S,Garment with ties
+554,𓋯,S26,S,Apron
+555,𓋲,S27,S,Horizontal strips of cloth
+556,𓋳,S28,S,Cloth with fringe + S29
+557,𓋴,S29,S,Folded cloth
+558,𓋵,S30,S,Combination of S29 + I9
+559,𓋶,S31,S,Combination of S29 + U1
+560,𓋷,S32,S,Cloth iwht fringe
+561,𓋸,S33,S,Sandal
+562,𓋹,S34,S,Sandal strap
+563,𓋺,S35,S,Sunshade
+564,𓋼,S36,S,Var. of S35
+565,𓋽,S37,S,Fan
+566,𓋾,S38,S,Crook
+567,𓋿,S39,S,Crook
+568,𓌀,S40,S,Scepter with Seth animal
+569,𓌁,S41,S,Scepter with spiral shaft and Seth animal
+570,𓌂,S42,S,Scepter
+571,𓌃,S43,S,Staff
+572,𓌄,S44,S,Staff with flail
+573,𓌅,S45,S,Flail
+574,,,,
+575,𓌇,T1,T,Angular headed mace
+576,𓌈,T2,T,T3 tilted
+577,𓌉,T3,T,Pear shaped mace
+578,𓌋,T4,T,Var of T3
+579,𓌌,T5,T,Combination of T3 + I10
+580,𓌍,T6,T,Combination of T5 + extra I10
+581,𓌎,T7,T,Axe
+582,𓌏,T7a,T,Axe
+583,𓌐,T8,T,Dagger
+584,𓌑,T8a,T,Dagger
+585,𓌒,T9,T,Bow
+586,𓌓,T9a,T,Var of T9
+587,𓌔,T10,T,Composite bow
+588,𓌕,T11,T,Arrow
+589,𓌗,T12,T,Bowstring
+590,𓌘,T13,T,Wood tied together
+591,𓌙,T14,T,Throw stick
+592,𓌚,T15,T,Var. of T14
+593,𓌛,T16,T,Scimitar
+594,𓌝,T17,T,Chariot
+595,𓌞,T18,T,Crook with package
+596,𓌟,T19,T,Bone harpoon head
+597,𓌠,T20,T,Var. of T19
+598,𓌡,T21,T,Harpoon
+599,𓌢,T22,T,Arrowhead
+600,𓌣,T23,T,Var. of T22
+601,𓌤,T24,T,Fishing net
+602,𓌥,T25,T,Reed Float
+603,𓌦,T26,T,Bird Trap
+604,𓌧,T27,T,Var. of T26
+605,𓌨,T28,T,Butcher’s block
+606,𓌩,T29,T,Combination of T28 + T30
+607,𓌪,T30,T,Knife
+608,𓌫,T31,T,Knife sharpener
+609,𓌬,T32,T,Combination of T31 + D54
+610,𓌮,T33,T,Butcher’s knife sharpener
+611,𓌰,T34,T,Butcher’s knife
+612,𓌱,T35,T,Var. of T34
+613,,,,
+614,𓌳,U1,U,Sickle
+615,𓌴,U2,U,Var. of U1
+616,𓌵,U3,U,Combination of U1 + D4
+617,𓌶,U4,U,Combination of U1 + Aa11
+618,𓌷,U5,U,Var. of U4
+619,𓌸,U6,U,Hoe
+620,𓌻,U7,U,Var. of U6
+621,𓌼,U8,U,Hoe
+622,𓌽,U9,U,Grain measure with grain streaming outwards
+623,𓌾,U10,U,Combination of U9 + M33
+624,𓌿,U11,U,Combination of S38 + U9
+625,𓍀,U12,U,Combination of D50 + U9
+626,𓍁,U13,U,Plow
+627,𓍂,U14,U,Two branches joined
+628,𓍃,U15,U,Sled
+629,𓍄,U16,U,Sled with jackal head bearing a load
+630,𓍅,U17,U,Pick with pool
+631,𓍆,U18,U,Var. U17
+632,𓍇,U19,U,Adze
+633,𓍈,U20,U,Var. of U19
+634,𓍉,U21,U,Adze with wood block
+635,𓍊,U22,U,Chisel
+636,𓍋,U23,U,Chisel
+637,𓍍,U24,U,Drill for stone
+638,𓍎,U25,U,Var. of U24
+639,𓍏,U26,U,Drill for beads
+640,𓍐,U27,U,Var. of U26
+641,𓍑,U28,U,Fire drill
+642,𓍒,U29,U,Var. of U28
+643,𓍔,U30,U,Kiln
+644,𓍕,U31,U,Baker’s rake
+645,𓍖,U32,U,Mortar and pestle
+646,𓍘,U33,U,Pestle
+647,𓍙,U34,U,Spindle
+648,𓍚,U35,U,Combination of U34 + I9
+649,𓍛,U36,U,Club used in washing
+650,𓍜,U37,U,Razor
+651,𓍝,U38,U,Scale
+652,𓍞,U39,U,Scale post
+653,𓍟,U40,U,Var. of U39
+654,𓍠,U41,U,Plumb bob
+655,,,,
+656,𓍢,V1,V,Rope coil
+657,𓍬,V2,V,Combination of V1 + O34
+658,𓍮,V3,V,"Same as V2, but with two additional coils"
+659,𓍯,V4,V,Lasso
+660,𓍰,V5,V,Looped rope
+661,𓍱,V6,V,Cord with loop facing downwards
+662,𓍲,V7,V,Cord with loop facing upwards
+663,𓍴,V8,V,Var. of V7
+664,𓍶,V9,V,Round cartouche
+665,𓍷,V10,V,Oval cartouche
+666,𓍸,V11,V,End of cartouche
+667,𓍼,V12,V,String
+668,𓍿,V13,V,Tethering rope
+669,𓎀,V14,V,Var. of V13
+670,𓎁,V15,V,Combination of V13 and D54
+671,𓎂,V16,V,Hobble for cattle
+672,𓎃,V17,V,Herdsman’s shelter
+673,𓎄,V18,V,Var. of V17
+674,𓎅,V19,V,Hobble for cattle
+675,𓎆,V20,V,Hobble for cattle sans crossbar
+676,𓎓,V21,V,Combination of V20 + I10
+677,𓎔,V22,V,Whip
+678,𓎕,V23,V,Var. of V22
+679,𓎗,V24,V,Cord on Stick
+680,𓎘,V25,V,Var. of V24
+681,𓎙,V26,V,Spool with thread
+682,𓎚,V27,V,Var. of V26
+683,𓎛,V28,V,Wick
+684,𓎝,V29,V,Swab
+685,𓎟,V30,V,Basket
+686,𓎡,V31,V,Basket with handle
+687,𓎢,V31a,V,V31 reversed
+688,𓎣,V32,V,Wicker satchel
+689,𓎤,V33,V,Linen bag
+690,𓎥,V34,V,Var. of V33
+691,𓎧,V35,V,Var. of V33
+692,𓎨,V36,V,Receptacle
+693,𓎩,V37,V,Bandage
+694,𓎫,V38,V,Bandage
+695,𓎬,V39,V,Tie
+696,,,,
+697,𓎯,W1,W,Oil jar
+698,𓎰,W2,W,Oil jar without ties
+699,𓎱,W3,W,Alabaster basin
+700,𓎳,W4,W,Combination of W3 + O22
+701,𓎴,W5,W,Combination of W3 + T28
+702,𓎵,W6,W,Vessel
+703,𓎶,W7,W,Granite bowl
+704,𓎷,W8,W,Var. of W7
+705,𓎸,W9,W,Stone jug
+706,𓎺,W10,W,Cup
+707,𓎻,W10a,W,Pot
+708,𓎼,W11,W,Ring stand
+709,𓎽,W12,W,Ring stand
+710,𓎾,W13,W,Pot
+711,𓎿,W14,W,Tall jar
+712,𓏁,W15,W,Tall jar with water
+713,𓏂,W16,W,Combination of W15 + W12
+714,𓏃,W17,W,Tall jars in rack.
+715,𓏅,W18,W,Var. W17
+716,𓏇,W19,W,Milk jug
+717,𓏈,W20,W,Milk jug with leaf
+718,𓏉,W21,W,Wine jars
+719,𓏊,W22,W,Beer jugs
+720,𓏋,W23,W,Jug with handles
+721,𓏌,W24,W,Bowl
+722,𓏎,W25,W,Combination of W24 + legs
+723,,,,
+724,𓏏,X1,X,Small bread loaf
+725,𓏐,X2,X,Tall bread loaf
+726,𓏑,X3,X,Var. of X2
+727,𓏒,X4,X,Bread roll
+728,𓏕,X5,X,Var. of X4
+729,𓏖,X6,X,Round loaf with baker’s mark
+730,𓏘,X7,X,Half loaf of bread
+731,𓏙,X8,X,Conical Loaf
+732,,,,
+733,𓏛,Y1,Y,Papyrus scroll
+734,𓏜,Y1v,Y,Papyrus scroll (vertical)
+735,𓏝,Y2,Y,Var. of Y1
+736,𓏞,Y3,Y,Scribal kit
+737,𓏟,Y4,Y,Y4 reversed
+738,𓏠,Y5,Y,Game board
+739,𓏡,Y6,Y,Game piece
+740,𓏢,Y7,Y,Harp
+741,𓏣,Y8,Y,Sistrum
+742,,,,
+743,𓏤,Z1,Z,Stroke
+744,𓏥,Z2,Z,Triple stroke
+745,𓏪,Z3,Z,Three Z1 vertical strokes
+746,𓏫,Z3a,Z,Z2 vertical
+747,𓏭,Z4,Z,Two diagonal strokes
+748,𓏮,Z4a,Z,Two vertical strokes
+749,𓏯,Z5,Z,Diagonal stroke in hieratic
+750,𓏱,Z6,Z,Hieratic var. of A13 and A14
+751,𓏲,Z7,Z,From hieratic var. of G43.
+752,𓏳,Z8,Z,Oval
+753,𓏴,Z9,Z,Crossed sticks
+754,𓏵,Z10,Z,Var. of Z9
+755,𓏶,Z11,Z,Crossed planks
