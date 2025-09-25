@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Hieroglyph Analyzer - Ancient Symbol Recognition</title>
+    <meta name="description" content="Upload hieroglyph images and analyze ancient symbols with AI-powered pattern recognition">
+    <meta name="keywords" content="hieroglyph, ancient symbols, pattern recognition, AI analysis">
+    
+    <meta property="og:title" content="Hieroglyph Analyzer - Ancient Symbol Recognition">
+    <meta property="og:description" content="Upload hieroglyph images and analyze ancient symbols with AI-powered pattern recognition">
+    
+    <meta name="twitter:title" content="Hieroglyph Analyzer - Ancient Symbol Recognition">
+    <meta name="twitter:description" content="Upload hieroglyph images and analyze ancient symbols with AI-powered pattern recognition">
+
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react@18/umd/react.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://resource.trickle.so/vendor_lib/unpkg/lucide-static@0.516.0/font/lucide.css" rel="stylesheet">
+
+    <style type="text/tailwindcss">
+    @layer theme {
+        :root {
+            --primary-color: #8B4513;
+            --secondary-color: #D2B48C;
+            --accent-color: #CD853F;
+            --text-primary: #2D1810;
+            --text-secondary: #5D4E37;
+            --bg-primary: #FFF8DC;
+            --bg-secondary: #F5F5DC;
+        }
+    }
+
+    @layer base {
+        body {
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: 'Inter', system-ui, sans-serif;
+        }
+    }
+
+    @layer components {
+        .btn-primary {
+            @apply px-6 py-3 rounded-lg font-medium transition-all duration-200;
+            background-color: var(--primary-color);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            @apply shadow-lg transform -translate-y-0.5;
+            background-color: var(--accent-color);
+        }
+        
+        .card {
+            @apply rounded-xl shadow-lg p-6 border;
+            background-color: white;
+            border-color: var(--secondary-color);
+        }
+        
+        .selection-box {
+            position: absolute;
+            border: 2px dashed var(--primary-color);
+            background-color: rgba(139, 69, 19, 0.1);
+            pointer-events: none;
+        }
+    }
+    </style>
+
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel" src="components/ImageUpload.js"></script>
+    <script type="text/babel" src="components/ImageCanvas.js"></script>
+    <script type="text/babel" src="components/PredictionResults.js"></script>
+    <script type="text/babel" src="components/SymbolLibrary.js"></script>
+    <script type="text/babel" src="utils/csvParser.js"></script>
+    <script type="text/babel" src="utils/aiAnalyzer.js"></script>
+    <script type="text/babel" src="utils/database.js"></script>
+    <script type="text/babel" src="app.js"></script>
+</body>
+</html>
